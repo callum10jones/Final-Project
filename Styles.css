@@ -369,6 +369,23 @@ footer .title {
     padding: 5px;
 }
 
+.media-container-type {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.column {
+    float: center;
+    width: 25%;
+  }
+  
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 /* CONTACT */
 
 .contact {
