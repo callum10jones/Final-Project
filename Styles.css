@@ -373,8 +373,7 @@ footer .title {
 
 .column {
     position: relative;
-    float: center;
-    width: 25%;
+    padding: 10px 10px;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
