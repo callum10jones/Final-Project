@@ -354,10 +354,6 @@ footer .title {
     padding: 15px 25px 15px 50px;
 }
 
-.box1 {
-    border: 3px solid white;
-}
-
 .media-container .mediacontent {
     flex: 1;
     padding: 10px;
@@ -376,16 +372,14 @@ footer .title {
 }
 
 .column {
+    position: relative;
     float: center;
     width: 25%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
   }
   
-
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
 /* CONTACT */
 
 .contact {
