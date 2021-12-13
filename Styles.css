@@ -354,6 +354,10 @@ footer .title {
     padding: 15px 25px 15px 50px;
 }
 
+.box {
+    border: 3px solid white;
+}
+
 .media-container .mediacontent {
     flex: 1;
     padding: 10px;
