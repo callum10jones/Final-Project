@@ -354,7 +354,7 @@ footer .title {
     padding: 15px 25px 15px 50px;
 }
 
-.box {
+.box1 {
     border: 3px solid white;
 }
 
@@ -366,6 +366,7 @@ footer .title {
 .mediacontent {
     color: navy;
     font-size: 20px;
+    padding: 5px;
 }
 
 /* CONTACT */
