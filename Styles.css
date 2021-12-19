@@ -425,13 +425,8 @@ footer .title {
 }
 
 .contact p {
-    position: absolute;
-    text-align: left;
+    font-size: 1.75em;
     color: white;
-    font-size: 1vw;
-    padding: 10px;
-    line-height: 1.5;
-    z-index: 9;
 }
 
 .info {
@@ -458,11 +453,6 @@ footer .title {
 }
 
 .reflect p {
-    position: absolute;
-    text-align: left;
+    font-size: 1.75em;
     color: white;
-    font-size: 1vw;
-    padding: 10px;
-    line-height: 1.5;
-    z-index: 9;
 }
