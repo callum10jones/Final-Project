@@ -235,7 +235,7 @@ section img#stars {
     font-weight: bold;
     text-transform: uppercase;
     z-index: 9;
-    bottom: 10px;
+    transform: translateY(200px);
 }
 /* Footer */
 
