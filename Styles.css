@@ -440,3 +440,29 @@ footer .title {
     align-items: center;
 }
 
+.reflect {
+    min-height: 100vh;
+    background: linear-gradient(#2b1055, #573694);
+}
+
+.reflect h2 {
+    position: absolute;
+    color: white;
+    font-size: 3.5vw;
+    white-space: nowrap;
+    text-transform: uppercase;
+    text-align: center;
+    justify-content: center;
+    z-index: 9;
+    top: 50px;
+}
+
+.reflect p {
+    position: absolute;
+    text-align: left;
+    color: white;
+    font-size: 1vw;
+    padding: 10px;
+    line-height: 1.5;
+    z-index: 9;
+}
